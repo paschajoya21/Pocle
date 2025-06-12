@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666927490979",
+    "project_id": "pocle-96860",
+    "storage_bucket": "pocle-96860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666927490979:android:46b7bffcd01c43da2e1c16",
+        "android_client_info": {
+          "package_name": "com.example.pocleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YrhJO_0cwLX3nTmj9lXK0DT0tVxPT98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
